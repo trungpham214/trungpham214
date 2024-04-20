@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Trung
+An enthusiastic, responsible, and hard-working student indulging an intense passion for computer science, I would like to dedicate my effort and knowledge to making my community's future brighter and better.
 # 🎓 Education
-I'm second year in Bachelor of Computer Science in Eindhoven University of Technology
+I'm second year of Bachelor of Computer Science at Eindhoven University of Technology
 <!--- - 🙋🏻‍♂️ Description --->
 # ✨ Skills
 - I'm specialized in: [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
