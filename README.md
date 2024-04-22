@@ -1,7 +1,9 @@
 ## 👋 Hi, I’m Trung
-An enthusiastic, responsible, and hard-working student indulging an intense passion for computer science, I would like to dedicate my effort and knowledge to making my community's future brighter and better.
+As an enthusiastic, responsible, and hard-working student, I would like to dedicate my effort and knowledge to making my community's future brighter and better, also gaining more experience and enhancing skills through challenges.
+Currently, I’m delving into data analysis and machine learning. You can check out my project on this GitHub.
 # 🎓 Education
-I'm second year of Bachelor of Computer Science at Eindhoven University of Technology
+- I'm second year in Bachelor of Computer Science at Eindhoven University of Technology
+- Advanced level of using SQL certificated by HackerRank (check this out on my Linkedin)
 <!--- - 🙋🏻‍♂️ Description --->
 # ✨ Skills
 - I'm specialized in: [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
