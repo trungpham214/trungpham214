@@ -5,7 +5,7 @@ I'm second year of Bachelor of Computer Science at Eindhoven University of Techn
 <!--- - 🙋🏻‍♂️ Description --->
 # ✨ Skills
 - I'm specialized in: [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
-- I also have experience in: [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,js)](https://skillicons.dev)
+- I also have experience in: [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,js,django)](https://skillicons.dev)
 
 <!---
 trungpham214/trungpham214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
