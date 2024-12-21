@@ -7,7 +7,7 @@ Currently, I’m delving into data analysis and machine learning. You can check 
 <!--- - 🙋🏻‍♂️ Description --->
 # ✨ Skills
 - I'm specialized in: [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
-- I also have experience in: [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,js,django,docker)](https://skillicons.dev)
+- I have experience in: [![My Skills](https://skillicons.dev/icons?i=mysql,js,django,docker,git,grafana)](https://skillicons.dev)
 
 <!---
 trungpham214/trungpham214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
