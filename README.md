@@ -2,7 +2,7 @@
 As an enthusiastic, responsible, and hard-working student, I would like to dedicate my effort and knowledge to making my community's future brighter and better, also gaining more experience and enhancing skills through challenges.
 Currently, I’m delving into data analysis and machine learning. You can check out my project on this GitHub.
 # 🎓 Education
-- I'm second-year student of Bachelor of Computer Science at Eindhoven University of Technology
+- I'm third-year student of Bachelor of Computer Science at Eindhoven University of Technology
 - Advanced level of using SQL certificated by HackerRank
 <!--- - 🙋🏻‍♂️ Description --->
 # ✨ Skills
